@@ -1,0 +1,9 @@
+
+- story: prediction flow
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: inform_symptom
+  - action: action_extract_symptoms
+  - action: utter_offer_prediction
+  - action: action_predict_disease  

@@ -1,0 +1,142 @@
+/* General Styles */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #cef2f0; /* Your specified background color */
+  color: #333;
+}
+
+/* Sticky Navbar */
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: white; /* White background for navbar */
+  padding: 15px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+}
+
+.navbar-left,
+.navbar-right {
+  display: flex;
+  gap: 20px;
+}
+
+.navbar a {
+  color: black; /* Black text for navbar links */
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.navbar a:hover {
+  text-decoration: underline;
+}
+
+/* Main Content */
+.home-container {
+  padding-top: 80px; /* Add padding to avoid content overlap with navbar */
+}
+
+.main-content {
+  display: flex;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  gap: 40px; /* Space between left and right sections */
+}
+
+/* Left Section: Description and Report Upload */
+.left-section {
+  flex: 2;
+}
+
+h1 {
+  font-size: 36px;
+  color: #007bff;
+  margin-bottom: 20px;
+}
+
+.feature-summary {
+  background-color: white;
+  padding: 30px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: left;
+}
+
+.feature-summary h2 {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 15px;
+}
+
+.feature-summary p {
+  font-size: 16px;
+  color: #555;
+  line-height: 1.6;
+  margin-bottom: 10px;
+}
+
+.tagline {
+  font-size: 18px;
+  font-weight: bold;
+  color: #007bff;
+  text-align: center;
+  margin-top: 20px;
+}
+
+/* Image Grid for Doctor and Symptrack Interface */
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* 2 columns */
+  gap: 20px; /* Space between images */
+}
+
+.image-card {
+  background-color: white;
+  padding: 20px;
+  width: 195%;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.image-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.image-card p {
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 10px;
+  color: #333;
+}
+
+.image-card a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Right Section: Bot Image */
+.right-section {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.bot-image {
+  width: 100%;
+  max-width: 300px; /* Adjust size as needed */
+  height: auto;
+  border-radius: 10px;
+}

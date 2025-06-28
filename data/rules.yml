@@ -1,0 +1,9 @@
+
+version: "3.1"
+rules:
+- rule: Symptom Handling Flow
+  steps:
+  - intent: inform_symptom
+  - action: action_extract_symptoms
+  - action: utter_offer_prediction
+  - action: action_predict_disease

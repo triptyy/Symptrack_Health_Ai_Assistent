@@ -1,0 +1,32 @@
+version: "3.1"
+
+intents:
+  - greet
+  - inform_symptom
+  - affirm
+
+entities:
+  - symptom 
+
+slots:
+  symptoms:
+    type: list
+    influence_conversation: false
+    mappings:
+    - type: from_entity
+      entity: symptom  
+      intent: inform_symptom
+
+responses:
+  utter_greet:
+    - text: "Hello! Please describe your symptoms."
+  utter_offer_prediction:
+    - text: "Analyzing your symptoms. Please wait..."
+
+actions:
+  - action_extract_symptoms
+  - action_predict_disease
+
+session_config:
+  session_expiration_time: 600
+  carry_over_slots_to_new_session: true

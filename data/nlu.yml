@@ -1,0 +1,19 @@
+version: "3.1"
+nlu:
+- intent: greet
+  examples: |
+    - hi
+    - hello
+    - good morning
+
+- intent: inform_symptom
+  examples: |
+    - I have [headache](symptom)
+    - [Fever](symptom) and [nausea](symptom)
+
+
+- intent: affirm
+  examples: |
+    - yes
+    - sure
+    - go ahead
