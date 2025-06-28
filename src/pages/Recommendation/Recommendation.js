@@ -31,7 +31,7 @@ const diseaseToSpecialist = {
     "other": "general practitioner"
 };
 
-const apiKey = 'AIzaSyD-ZKUKNZLIVeNFZppSTJ9D8_x7Nq_G2JY'; // Replace with your valid Google Places API key
+const apiKey = 'Your_Api_Key'; // Replace with your valid Google Places API key
 
 app.post('/find-doctors', async (req, res) => {
     const { latitude, longitude, disease } = req.body;
