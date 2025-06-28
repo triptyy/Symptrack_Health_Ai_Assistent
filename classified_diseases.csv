@@ -1,0 +1,444 @@
+disease,Predicted Categories
+chronic glaucoma,Ophthalmological Diseases
+torticollis,Musculoskeletal Diseases
+personality disorder,Mental Health Disorders
+chronic otitis media,"Otolaryngological Diseases, Respiratory Diseases"
+arrhythmia,Cardiovascular Diseases
+peripheral nerve disorder,Neurological Diseases
+neuralgia,Neurological Diseases
+hyperkalemia,Hematological Diseases
+ankylosing spondylitis,Musculoskeletal Diseases
+macular degeneration,"Musculoskeletal Diseases, Gynecological Diseases, Ophthalmological Diseases, Dermatological Diseases"
+pilonidal cyst,"Gynecological Diseases, Dermatological Diseases, Infectious Diseases, Musculoskeletal Diseases, Oncological Diseases"
+hypoglycemia,Endocrine Diseases
+anxiety,Mental Health Disorders
+noninfectious gastroenteritis,"Gastrointestinal Diseases, Other"
+gastritis,Gastrointestinal Diseases
+drug abuse (methamphetamine),Mental Health Disorders
+psoriasis,"Dermatological Diseases, Infectious Diseases, Immunological Diseases, Hematological Diseases, Musculoskeletal Diseases, Gastrointestinal Diseases, Respiratory Diseases"
+trichomonas infection,Infectious Diseases
+fracture of the shoulder,Musculoskeletal Diseases
+knee ligament or meniscus tear,Musculoskeletal Diseases
+eczema,"Immunological Diseases, Dermatological Diseases, Musculoskeletal Diseases"
+trigeminal neuralgia,Neurological Diseases
+postoperative infection,"Infectious Diseases, Gastrointestinal Diseases, Gynecological Diseases, Respiratory Diseases, Immunological Diseases, Otolaryngological Diseases"
+dry eye of unknown cause,Other
+mononucleosis,"Infectious Diseases, Immunological Diseases, Respiratory Diseases, Genetic Diseases"
+strep throat,"Infectious Diseases, Respiratory Diseases, Immunological Diseases"
+peritonitis,"Infectious Diseases, Gastrointestinal Diseases"
+complex regional pain syndrome,Musculoskeletal Diseases
+injury to the leg,Musculoskeletal Diseases
+oppositional disorder,"Other, Mental Health Disorders"
+skin cancer,Dermatological Diseases
+panic disorder,Mental Health Disorders
+acute sinusitis,Respiratory Diseases
+hidradenitis suppurativa,"Immunological Diseases, Respiratory Diseases, Dermatological Diseases, Hematological Diseases, Infectious Diseases, Gastrointestinal Diseases"
+injury to the trunk,Musculoskeletal Diseases
+idiopathic irregular menstrual cycle,Gynecological Diseases
+benign prostatic hyperplasia (bph),Renal and Urological Diseases
+shingles (herpes zoster),"Infectious Diseases, Immunological Diseases, Musculoskeletal Diseases, Hematological Diseases, Dermatological Diseases"
+cholecystitis,"Infectious Diseases, Gastrointestinal Diseases, Immunological Diseases, Gynecological Diseases, Musculoskeletal Diseases"
+sensorineural hearing loss,Otolaryngological Diseases
+urinary tract obstruction,Renal and Urological Diseases
+developmental disability,Genetic Diseases
+esophagitis,Infectious Diseases
+uterine fibroids,Gynecological Diseases
+seborrheic dermatitis,Dermatological Diseases
+ischemic heart disease,"Cardiovascular Diseases, Hematological Diseases"
+tooth disorder,Dental Diseases
+meniere disease,"Neurological Diseases, Gynecological Diseases, Musculoskeletal Diseases, Respiratory Diseases"
+acute stress reaction,Mental Health Disorders
+spondylosis,Musculoskeletal Diseases
+joint effusion,Musculoskeletal Diseases
+depression,Mental Health Disorders
+gallstone,Gastrointestinal Diseases
+ganglion cyst,"Gynecological Diseases, Dermatological Diseases, Immunological Diseases, Musculoskeletal Diseases"
+stye,"Musculoskeletal Diseases, Dermatological Diseases, Gynecological Diseases, Infectious Diseases"
+postpartum depression,Mental Health Disorders
+herpangina,"Hematological Diseases, Respiratory Diseases, Immunological Diseases"
+arthritis of the hip,Musculoskeletal Diseases
+contact dermatitis,Dermatological Diseases
+benign paroxysmal positional vertical (bppv),Otolaryngological Diseases
+obstructive sleep apnea (osa),Respiratory Diseases
+mononeuritis,"Infectious Diseases, Immunological Diseases, Respiratory Diseases, Neurological Diseases, Musculoskeletal Diseases, Hematological Diseases, Gastrointestinal Diseases, Dermatological Diseases"
+sinus bradycardia,Cardiovascular Diseases
+autism,Mental Health Disorders
+skin pigmentation disorder,Dermatological Diseases
+psychotic disorder,Mental Health Disorders
+labyrinthitis,Infectious Diseases
+pelvic organ prolapse,Gynecological Diseases
+crohn disease,Gastrointestinal Diseases
+bursitis,"Musculoskeletal Diseases, Infectious Diseases, Respiratory Diseases, Immunological Diseases"
+diverticulitis,"Infectious Diseases, Respiratory Diseases, Gastrointestinal Diseases, Musculoskeletal Diseases"
+chronic obstructive pulmonary disease (copd),Respiratory Diseases
+gum disease,Dental Diseases
+liver disease,"Gastrointestinal Diseases, Hematological Diseases"
+chronic sinusitis,Respiratory Diseases
+dementia,Neurological Diseases
+substance-related mental disorder,Mental Health Disorders
+cystitis,"Infectious Diseases, Gastrointestinal Diseases, Immunological Diseases"
+essential tremor,Neurological Diseases
+oral thrush (yeast infection),"Infectious Diseases, Immunological Diseases"
+asthma,"Respiratory Diseases, Immunological Diseases"
+sprain or strain,Musculoskeletal Diseases
+chronic back pain,Musculoskeletal Diseases
+gastrointestinal hemorrhage,Gastrointestinal Diseases
+nose disorder,"Respiratory Diseases, Mental Health Disorders"
+idiopathic excessive menstruation,Gynecological Diseases
+atrial flutter,Cardiovascular Diseases
+sebaceous cyst,Dermatological Diseases
+gastroduodenal ulcer,Gastrointestinal Diseases
+prostatitis,Renal and Urological Diseases
+herniated disk,"Renal and Urological Diseases, Musculoskeletal Diseases"
+chickenpox,"Infectious Diseases, Immunological Diseases"
+cataract,Ophthalmological Diseases
+brachial neuritis,"Neurological Diseases, Musculoskeletal Diseases, Infectious Diseases"
+fungal infection of the skin,"Infectious Diseases, Dermatological Diseases"
+eating disorder,Mental Health Disorders
+ectopic pregnancy,Gynecological Diseases
+marijuana abuse,Mental Health Disorders
+food allergy,Immunological Diseases
+neurosis,Neurological Diseases
+pain after an operation,Other
+atrophic vaginitis,"Gynecological Diseases, Respiratory Diseases, Infectious Diseases, Gastrointestinal Diseases"
+polycystic ovarian syndrome (pcos),Gynecological Diseases
+carpal tunnel syndrome,Musculoskeletal Diseases
+tendinitis,"Infectious Diseases, Immunological Diseases, Musculoskeletal Diseases, Dermatological Diseases, Respiratory Diseases"
+multiple sclerosis,"Neurological Diseases, Immunological Diseases"
+orthostatic hypotension,Cardiovascular Diseases
+retinopathy due to high blood pressure,Cardiovascular Diseases
+schizophrenia,"Mental Health Disorders, Neurological Diseases"
+anemia,"Hematological Diseases, Immunological Diseases"
+chronic rheumatic fever,"Hematological Diseases, Respiratory Diseases, Immunological Diseases, Musculoskeletal Diseases, Infectious Diseases"
+otitis externa (swimmer's ear),Infectious Diseases
+missed abortion,Gynecological Diseases
+foreign body in the throat,"Other, Infectious Diseases, Otolaryngological Diseases, Respiratory Diseases"
+drug reaction,Other
+white blood cell disease,"Immunological Diseases, Hematological Diseases"
+venous insufficiency,Hematological Diseases
+pyelonephritis,"Immunological Diseases, Respiratory Diseases, Hematological Diseases"
+hiatal hernia,"Gynecological Diseases, Gastrointestinal Diseases, Hematological Diseases, Musculoskeletal Diseases"
+acute pancreatitis,Gastrointestinal Diseases
+seborrheic keratosis,Dermatological Diseases
+rosacea,"Dermatological Diseases, Immunological Diseases"
+diabetic retinopathy,Ophthalmological Diseases
+transient ischemic attack,Cardiovascular Diseases
+abdominal hernia,"Musculoskeletal Diseases, Gastrointestinal Diseases, Gynecological Diseases"
+eustachian tube dysfunction (ear disorder),Otolaryngological Diseases
+conjunctivitis due to bacteria,Infectious Diseases
+idiopathic absence of menstruation,Gynecological Diseases
+bipolar disorder,Mental Health Disorders
+acute kidney injury,Renal and Urological Diseases
+hemiplegia,Neurological Diseases
+delirium,Neurological Diseases
+heart failure,"Cardiovascular Diseases, Hematological Diseases"
+foreign body in the eye,"Other, Ophthalmological Diseases, Infectious Diseases"
+overflow incontinence,Renal and Urological Diseases
+acute bronchiolitis,Respiratory Diseases
+itching of unknown cause,Other
+diabetic peripheral neuropathy,Endocrine Diseases
+allergy,"Immunological Diseases, Respiratory Diseases, Hematological Diseases"
+rectal disorder,Renal and Urological Diseases
+presbyopia,Ophthalmological Diseases
+attention deficit hyperactivity disorder (adhd),Mental Health Disorders
+muscle spasm,Musculoskeletal Diseases
+tooth abscess,Dental Diseases
+intracranial hemorrhage,Neurological Diseases
+pulmonary embolism,Cardiovascular Diseases
+pelvic inflammatory disease,Gynecological Diseases
+thoracic aortic aneurysm,Cardiovascular Diseases
+callus,Musculoskeletal Diseases
+acute bronchospasm,Respiratory Diseases
+injury of the ankle,Musculoskeletal Diseases
+injury to the face,Other
+acute respiratory distress syndrome (ards),Respiratory Diseases
+osteoarthritis,Other
+conjunctivitis,"Immunological Diseases, Ophthalmological Diseases"
+hypovolemia,Immunological Diseases
+obsessive compulsive disorder (ocd),Mental Health Disorders
+scleroderma,"Dermatological Diseases, Musculoskeletal Diseases"
+vulvodynia,"Respiratory Diseases, Immunological Diseases, Gynecological Diseases, Infectious Diseases"
+balanitis,"Infectious Diseases, Immunological Diseases, Respiratory Diseases, Musculoskeletal Diseases, Hematological Diseases, Gastrointestinal Diseases, Dermatological Diseases"
+drug abuse (opioids),Mental Health Disorders
+fibromyalgia,Musculoskeletal Diseases
+pleural effusion,Respiratory Diseases
+drug abuse,Mental Health Disorders
+erectile dysfunction,Gynecological Diseases
+yeast infection,"Infectious Diseases, Immunological Diseases, Gastrointestinal Diseases"
+actinic keratosis,Dermatological Diseases
+rotator cuff injury,Musculoskeletal Diseases
+infectious gastroenteritis,"Gastrointestinal Diseases, Infectious Diseases"
+thrombophlebitis,"Hematological Diseases, Immunological Diseases"
+astigmatism,Ophthalmological Diseases
+ingrown toe nail,Other
+sepsis,"Infectious Diseases, Hematological Diseases, Immunological Diseases"
+deviated nasal septum,"Respiratory Diseases, Otolaryngological Diseases"
+concussion,Neurological Diseases
+lumbago,Musculoskeletal Diseases
+temporary or benign blood in urine,Hematological Diseases
+broken tooth,Dental Diseases
+laryngitis,"Respiratory Diseases, Infectious Diseases, Immunological Diseases, Otolaryngological Diseases"
+pulmonary hypertension,"Respiratory Diseases, Hematological Diseases"
+temporomandibular joint disorder,Musculoskeletal Diseases
+angina,"Other, Respiratory Diseases, Ophthalmological Diseases"
+spinal stenosis,Musculoskeletal Diseases
+eye alignment disorder,Ophthalmological Diseases
+scar,"Other, Respiratory Diseases, Oncological Diseases, Infectious Diseases, Dermatological Diseases, Mental Health Disorders, Musculoskeletal Diseases, Hematological Diseases, Cardiovascular Diseases, Gastrointestinal Diseases, Immunological Diseases, Neurological Diseases"
+cardiomyopathy,Cardiovascular Diseases
+injury to the shoulder,Musculoskeletal Diseases
+tonsillar hypertrophy,Otolaryngological Diseases
+athlete's foot,Dermatological Diseases
+chronic constipation,Gastrointestinal Diseases
+gout,"Hematological Diseases, Musculoskeletal Diseases, Renal and Urological Diseases, Gastrointestinal Diseases"
+premenstrual tension syndrome,Gynecological Diseases
+conjunctivitis due to allergy,Immunological Diseases
+orbital cellulitis,Infectious Diseases
+intracerebral hemorrhage,Cardiovascular Diseases
+soft tissue sarcoma,"Oncological Diseases, Musculoskeletal Diseases"
+vasculitis,"Respiratory Diseases, Infectious Diseases, Immunological Diseases, Hematological Diseases"
+aortic valve disease,Cardiovascular Diseases
+kidney stone,Renal and Urological Diseases
+vaginal cyst,Gynecological Diseases
+osteochondroma,"Oncological Diseases, Other"
+chronic pain disorder,Musculoskeletal Diseases
+hyponatremia,Hematological Diseases
+lipoma,"Dermatological Diseases, Oncological Diseases, Musculoskeletal Diseases, Hematological Diseases, Immunological Diseases"
+parkinson disease,Neurological Diseases
+urethral disorder,Renal and Urological Diseases
+scoliosis,Musculoskeletal Diseases
+interstitial lung disease,Respiratory Diseases
+heart attack,Cardiovascular Diseases
+epididymitis,"Infectious Diseases, Immunological Diseases"
+benign vaginal discharge (leukorrhea),"Gynecological Diseases, Immunological Diseases"
+appendicitis,Infectious Diseases
+hemorrhoids,"Musculoskeletal Diseases, Gastrointestinal Diseases, Respiratory Diseases, Dermatological Diseases"
+narcolepsy,Neurological Diseases
+fungal infection of the hair,Dermatological Diseases
+conjunctivitis due to virus,"Infectious Diseases, Immunological Diseases"
+osteoporosis,"Respiratory Diseases, Other, Hematological Diseases, Dermatological Diseases, Musculoskeletal Diseases"
+sciatica,Musculoskeletal Diseases
+vaginitis,Gynecological Diseases
+urinary tract infection,"Infectious Diseases, Renal and Urological Diseases"
+hemangioma,"Hematological Diseases, Oncological Diseases, Dermatological Diseases, Neurological Diseases"
+sickle cell crisis,"Oncological Diseases, Infectious Diseases, Immunological Diseases"
+indigestion,Gastrointestinal Diseases
+impetigo,"Immunological Diseases, Infectious Diseases, Other"
+mitral valve disease,Cardiovascular Diseases
+fracture of the arm,Musculoskeletal Diseases
+post-traumatic stress disorder (ptsd),Mental Health Disorders
+cardiac arrest,Cardiovascular Diseases
+colonic polyp,Gastrointestinal Diseases
+cornea infection,"Dermatological Diseases, Infectious Diseases, Ophthalmological Diseases, Respiratory Diseases"
+myopia,Ophthalmological Diseases
+fracture of the rib,Musculoskeletal Diseases
+rheumatoid arthritis,"Immunological Diseases, Musculoskeletal Diseases, Hematological Diseases"
+pterygium,Gastrointestinal Diseases
+drug poisoning due to medication,Toxicological/Environmental Diseases
+mastoiditis,"Infectious Diseases, Musculoskeletal Diseases, Respiratory Diseases, Immunological Diseases, Dermatological Diseases, Otolaryngological Diseases, Dental Diseases, Ophthalmological Diseases"
+common cold,"Respiratory Diseases, Immunological Diseases"
+conduct disorder,Mental Health Disorders
+sickle cell anemia,"Immunological Diseases, Hematological Diseases"
+viral exanthem,Infectious Diseases
+thoracic outlet syndrome,Respiratory Diseases
+smoking or tobacco addiction,Mental Health Disorders
+abscess of nose,"Respiratory Diseases, Otolaryngological Diseases, Infectious Diseases"
+headache after lumbar puncture,Musculoskeletal Diseases
+ulcerative colitis,Gastrointestinal Diseases
+dermatitis due to sun exposure,Dermatological Diseases
+pneumonia,"Respiratory Diseases, Infectious Diseases, Immunological Diseases"
+myositis,"Infectious Diseases, Immunological Diseases, Musculoskeletal Diseases, Neurological Diseases, Hematological Diseases, Gastrointestinal Diseases, Dermatological Diseases"
+abdominal aortic aneurysm,Cardiovascular Diseases
+deep vein thrombosis (dvt),Cardiovascular Diseases
+injury to the arm,Musculoskeletal Diseases
+ear wax impaction,Dermatological Diseases
+paroxysmal ventricular tachycardia,Cardiovascular Diseases
+breast infection (mastitis),Infectious Diseases
+degenerative disc disease,Musculoskeletal Diseases
+nasal polyp,"Respiratory Diseases, Otolaryngological Diseases"
+thyroid nodule,Endocrine Diseases
+sialoadenitis,"Infectious Diseases, Immunological Diseases, Dermatological Diseases, Gastrointestinal Diseases, Musculoskeletal Diseases, Dental Diseases, Respiratory Diseases, Ophthalmological Diseases, Hematological Diseases, Renal and Urological Diseases"
+lactose intolerance,Gastrointestinal Diseases
+vitreous degeneration,"Respiratory Diseases, Dermatological Diseases"
+croup,"Respiratory Diseases, Immunological Diseases, Infectious Diseases"
+pulmonary eosinophilia,"Respiratory Diseases, Immunological Diseases"
+injury to the hand,Other
+adjustment reaction,Other
+pyogenic skin infection,Dermatological Diseases
+restless leg syndrome,Musculoskeletal Diseases
+intestinal malabsorption,Gastrointestinal Diseases
+acute bronchitis,"Respiratory Diseases, Infectious Diseases"
+pneumothorax,"Respiratory Diseases, Infectious Diseases"
+lymphedema,Hematological Diseases
+sarcoidosis,"Infectious Diseases, Immunological Diseases, Gastrointestinal Diseases, Dermatological Diseases, Musculoskeletal Diseases, Respiratory Diseases, Hematological Diseases"
+stroke,"Cardiovascular Diseases, Other"
+panic attack,Mental Health Disorders
+seasonal allergies (hay fever),Immunological Diseases
+kidney failure,Renal and Urological Diseases
+peripheral arterial disease,Cardiovascular Diseases
+diverticulosis,"Infectious Diseases, Respiratory Diseases, Gastrointestinal Diseases, Dermatological Diseases, Musculoskeletal Diseases"
+alcohol intoxication,Toxicological/Environmental Diseases
+choledocholithiasis,"Infectious Diseases, Dermatological Diseases, Hematological Diseases, Musculoskeletal Diseases, Immunological Diseases"
+polycystic kidney disease,Renal and Urological Diseases
+primary insomnia,Mental Health Disorders
+onychomycosis,"Infectious Diseases, Immunological Diseases, Respiratory Diseases"
+fracture of the vertebra,Musculoskeletal Diseases
+viral warts,"Infectious Diseases, Immunological Diseases, Dermatological Diseases"
+endometriosis,Gynecological Diseases
+abscess of the pharynx,"Respiratory Diseases, Infectious Diseases"
+diabetic ketoacidosis,Endocrine Diseases
+induced abortion,Gynecological Diseases
+urethritis,"Immunological Diseases, Musculoskeletal Diseases, Dermatological Diseases"
+hydronephrosis,Respiratory Diseases
+cervicitis,"Gynecological Diseases, Musculoskeletal Diseases, Immunological Diseases"
+impulse control disorder,Mental Health Disorders
+otitis media,"Immunological Diseases, Infectious Diseases, Respiratory Diseases, Other, Toxicological/Environmental Diseases, Otolaryngological Diseases"
+cranial nerve palsy,Neurological Diseases
+paronychia,Other
+head and neck cancer,Oncological Diseases
+lymphoma,"Immunological Diseases, Hematological Diseases, Oncological Diseases, Infectious Diseases, Gastrointestinal Diseases"
+ischemia of the bowel,"Gastrointestinal Diseases, Other"
+molluscum contagiosum,"Immunological Diseases, Infectious Diseases"
+iron deficiency anemia,Hematological Diseases
+lyme disease,"Infectious Diseases, Hematological Diseases, Immunological Diseases"
+idiopathic painful menstruation,Gynecological Diseases
+corneal abrasion,Dermatological Diseases
+tracheitis,"Respiratory Diseases, Infectious Diseases"
+blepharitis,"Respiratory Diseases, Infectious Diseases, Ophthalmological Diseases, Dermatological Diseases, Immunological Diseases, Hematological Diseases, Otolaryngological Diseases"
+paroxysmal supraventricular tachycardia,Cardiovascular Diseases
+diaper rash,Dermatological Diseases
+skin polyp,Dermatological Diseases
+mucositis,"Immunological Diseases, Respiratory Diseases, Musculoskeletal Diseases, Infectious Diseases"
+urethral stricture,"Respiratory Diseases, Renal and Urological Diseases"
+myasthenia gravis,"Immunological Diseases, Infectious Diseases"
+hyperopia,Ophthalmological Diseases
+insect bite,Dermatological Diseases
+retinal detachment,Ophthalmological Diseases
+fracture of the hand,Musculoskeletal Diseases
+urge incontinence,Renal and Urological Diseases
+varicocele of the testicles,Renal and Urological Diseases
+graves disease,Endocrine Diseases
+glaucoma,Ophthalmological Diseases
+spondylitis,Musculoskeletal Diseases
+fracture of the leg,Musculoskeletal Diseases
+malignant hypertension,"Cardiovascular Diseases, Hematological Diseases"
+psychosexual disorder,Mental Health Disorders
+migraine,"Neurological Diseases, Musculoskeletal Diseases"
+dental caries,Dental Diseases
+irritable bowel syndrome,Gastrointestinal Diseases
+problem during pregnancy,Gynecological Diseases
+melanoma,"Dermatological Diseases, Oncological Diseases, Immunological Diseases, Hematological Diseases, Musculoskeletal Diseases"
+bone disorder,Musculoskeletal Diseases
+iridocyclitis,"Infectious Diseases, Immunological Diseases, Respiratory Diseases, Hematological Diseases"
+gastroesophageal reflux disease (gerd),Gastrointestinal Diseases
+flu,"Infectious Diseases, Respiratory Diseases, Immunological Diseases, Other"
+acute otitis media,"Otolaryngological Diseases, Respiratory Diseases"
+bladder obstruction,Gastrointestinal Diseases
+fracture of the facial bones,Musculoskeletal Diseases
+chalazion,Other
+subconjunctival hemorrhage,Ophthalmological Diseases
+osteochondrosis,"Other, Musculoskeletal Diseases"
+alopecia,Dermatological Diseases
+ear drum damage,Otolaryngological Diseases
+tietze syndrome,"Genetic Diseases, Respiratory Diseases"
+heart block,Cardiovascular Diseases
+spontaneous abortion,Gynecological Diseases
+conductive hearing loss,Otolaryngological Diseases
+envenomation from spider or animal bite,Infectious Diseases
+alcohol withdrawal,Mental Health Disorders
+vaginal yeast infection,"Gynecological Diseases, Infectious Diseases"
+spondylolisthesis,Musculoskeletal Diseases
+hypertensive heart disease,Cardiovascular Diseases
+bladder disorder,Gastrointestinal Diseases
+skin disorder,Dermatological Diseases
+down syndrome,Genetic Diseases
+stress incontinence,Renal and Urological Diseases
+alcohol abuse,Mental Health Disorders
+nerve impingement near the shoulder,Musculoskeletal Diseases
+bell palsy,Neurological Diseases
+lateral epicondylitis (tennis elbow),Musculoskeletal Diseases
+hypokalemia,"Immunological Diseases, Hematological Diseases, Endocrine Diseases"
+drug withdrawal,Mental Health Disorders
+atrophic skin condition,Dermatological Diseases
+pulmonary fibrosis,Respiratory Diseases
+female genitalia infection,Gynecological Diseases
+perirectal infection,"Infectious Diseases, Respiratory Diseases, Gastrointestinal Diseases, Immunological Diseases"
+pulmonary congestion,Respiratory Diseases
+benign kidney cyst,Renal and Urological Diseases
+social phobia,Mental Health Disorders
+injury to internal organ,"Gastrointestinal Diseases, Gynecological Diseases"
+acne,Dermatological Diseases
+chlamydia,"Infectious Diseases, Gynecological Diseases, Immunological Diseases"
+preeclampsia,"Hematological Diseases, Immunological Diseases"
+systemic lupus erythematosis (sle),"Immunological Diseases, Hematological Diseases, Dermatological Diseases, Infectious Diseases"
+intestinal obstruction,"Gastrointestinal Diseases, Renal and Urological Diseases"
+ileus,"Musculoskeletal Diseases, Infectious Diseases"
+bladder cancer,"Gastrointestinal Diseases, Oncological Diseases"
+hepatitis due to a toxin,"Respiratory Diseases, Hematological Diseases"
+inguinal hernia,"Gastrointestinal Diseases, Gynecological Diseases"
+lymphadenitis,"Infectious Diseases, Immunological Diseases, Respiratory Diseases, Gastrointestinal Diseases, Hematological Diseases"
+hyperemesis gravidarum,"Gastrointestinal Diseases, Hematological Diseases, Gynecological Diseases, Oncological Diseases"
+head injury,Neurological Diseases
+threatened pregnancy,Gynecological Diseases
+corneal disorder,"Ophthalmological Diseases, Dermatological Diseases"
+drug abuse (cocaine),Mental Health Disorders
+teething syndrome,Dental Diseases
+scabies,"Infectious Diseases, Immunological Diseases"
+tonsillitis,"Respiratory Diseases, Infectious Diseases, Immunological Diseases, Otolaryngological Diseases, Musculoskeletal Diseases"
+intestinal disease,Gastrointestinal Diseases
+thrombocytopenia,"Hematological Diseases, Immunological Diseases"
+vulvar disorder,"Gynecological Diseases, Infectious Diseases, Mental Health Disorders, Respiratory Diseases"
+cerebral palsy,Neurological Diseases
+cellulitis or abscess of mouth,Dental Diseases
+peritonsillar abscess,"Dental Diseases, Musculoskeletal Diseases, Infectious Diseases, Dermatological Diseases, Gastrointestinal Diseases, Immunological Diseases, Gynecological Diseases, Otolaryngological Diseases, Respiratory Diseases, Hematological Diseases"
+jaw disorder,"Musculoskeletal Diseases, Mental Health Disorders"
+acute glaucoma,Ophthalmological Diseases
+poisoning due to sedatives,Toxicological/Environmental Diseases
+dysthymic disorder,"Mental Health Disorders, Musculoskeletal Diseases, Gynecological Diseases"
+subarachnoid hemorrhage,Cardiovascular Diseases
+cold sore,"Musculoskeletal Diseases, Respiratory Diseases"
+chronic pancreatitis,Gastrointestinal Diseases
+ovarian cyst,Gynecological Diseases
+male genitalia infection,Gynecological Diseases
+premature ventricular contractions (pvcs),Cardiovascular Diseases
+meningitis,"Infectious Diseases, Immunological Diseases"
+subdural hemorrhage,Cardiovascular Diseases
+pain disorder affecting the neck,"Musculoskeletal Diseases, Otolaryngological Diseases"
+hydrocele of the testicle,Renal and Urological Diseases
+sick sinus syndrome,Respiratory Diseases
+fracture of the pelvis,Musculoskeletal Diseases
+asperger syndrome,"Respiratory Diseases, Mental Health Disorders"
+varicose veins,Hematological Diseases
+pericarditis,"Cardiovascular Diseases, Infectious Diseases, Immunological Diseases"
+aphthous ulcer,"Dental Diseases, Hematological Diseases, Gastrointestinal Diseases, Dermatological Diseases, Renal and Urological Diseases, Musculoskeletal Diseases"
+oral mucosal lesion,Other
+chronic knee pain,Musculoskeletal Diseases
+poisoning due to gas,Toxicological/Environmental Diseases
+alcoholic liver disease,Gastrointestinal Diseases
+fluid overload,Other
+plantar fasciitis,Musculoskeletal Diseases
+prostate cancer,Oncological Diseases
+celiac disease,"Infectious Diseases, Respiratory Diseases, Immunological Diseases, Musculoskeletal Diseases, Hematological Diseases"
+foreign body in the gastrointestinal tract,"Other, Gastrointestinal Diseases, Infectious Diseases"
+cirrhosis,"Respiratory Diseases, Hematological Diseases, Gastrointestinal Diseases"
+alzheimer disease,"Neurological Diseases, Mental Health Disorders"
+premature atrial contractions (pacs),Cardiovascular Diseases
+heat exhaustion,Toxicological/Environmental Diseases
+anal fissure,Gastrointestinal Diseases
+tinnitus of unknown cause,Otolaryngological Diseases
+osteomyelitis,"Infectious Diseases, Immunological Diseases, Other, Hematological Diseases, Respiratory Diseases, Musculoskeletal Diseases"
+stenosis of the tear duct,Ophthalmological Diseases
+pancreatic cancer,Oncological Diseases
+gastroparesis,Gastrointestinal Diseases
+stomach cancer,"Gastrointestinal Diseases, Oncological Diseases"
+genital herpes,"Genetic Diseases, Immunological Diseases, Infectious Diseases, Gynecological Diseases"
+uterine atony,Gynecological Diseases
+peripheral arterial embolism,Cardiovascular Diseases
+brain cancer,"Neurological Diseases, Oncological Diseases"
+persistent vomiting of unknown cause,Gastrointestinal Diseases
+coronary atherosclerosis,Cardiovascular Diseases
+intertrigo (skin condition),Dermatological Diseases
+hydrocephalus,Neurological Diseases
+tension headache,Neurological Diseases
+cerebral edema,Neurological Diseases
+polymyalgia rheumatica,"Hematological Diseases, Musculoskeletal Diseases, Immunological Diseases, Respiratory Diseases"
+gonorrhea,"Infectious Diseases, Respiratory Diseases, Gynecological Diseases, Gastrointestinal Diseases, Renal and Urological Diseases, Immunological Diseases, Hematological Diseases, Musculoskeletal Diseases"

@@ -1,0 +1,444 @@
+Disease,Fatality Rate
+chronic glaucoma,Low
+torticollis,Zero
+personality disorder,Medium
+chronic otitis media,Zero
+arrhythmia,Medium
+peripheral nerve disorder,Low
+neuralgia,Zero
+hyperkalemia,Medium
+ankylosing spondylitis,Zero
+macular degeneration,Zero
+pilonidal cyst,Zero
+hypoglycemia,Medium
+anxiety,Zero
+noninfectious gastroenteritis,Low
+gastritis,Zero
+drug abuse (methamphetamine),Medium
+psoriasis,Zero
+trichomonas infection,Zero
+fracture of the shoulder,Low
+knee ligament or meniscus tear,Zero
+eczema,Zero
+trigeminal neuralgia,Zero
+postoperative infection,Medium
+dry eye of unknown cause,Zero
+mononucleosis,Zero
+strep throat,Low
+peritonitis,High
+complex regional pain syndrome,Zero
+injury to the leg,Low
+oppositional disorder,Zero
+skin cancer,Medium
+panic disorder,Zero
+acute sinusitis,Zero
+hidradenitis suppurativa,Zero
+injury to the trunk,Low
+idiopathic irregular menstrual cycle,Zero
+benign prostatic hyperplasia (bph),Zero
+shingles (herpes zoster),Low
+cholecystitis,Low
+sensorineural hearing loss,Zero
+urinary tract obstruction,Medium
+developmental disability,Medium
+esophagitis,Zero
+uterine fibroids,Zero
+seborrheic dermatitis,Zero
+ischemic heart disease,Medium
+tooth disorder,Zero
+meniere disease,Zero
+acute stress reaction,Zero
+spondylosis,Zero
+joint effusion,Zero
+depression,Medium
+gallstone,Low
+ganglion cyst,Zero
+stye,Zero
+postpartum depression,Medium
+herpangina,Zero
+arthritis of the hip,Zero
+contact dermatitis,Zero
+benign paroxysmal positional vertical (bppv),Zero
+obstructive sleep apnea (osa),Low
+mononeuritis,Low
+sinus bradycardia,Low
+autism,Zero
+skin pigmentation disorder,Zero
+psychotic disorder,Medium
+labyrinthitis,Zero
+pelvic organ prolapse,Zero
+crohn disease,Low
+bursitis,Zero
+diverticulitis,Medium
+chronic obstructive pulmonary disease (copd),Medium
+gum disease,Zero
+liver disease,High
+chronic sinusitis,Zero
+dementia,High
+substance-related mental disorder,Medium
+cystitis,Zero
+essential tremor,Zero
+oral thrush (yeast infection),Zero
+asthma,Low
+sprain or strain,Zero
+chronic back pain,Zero
+gastrointestinal hemorrhage,Medium
+nose disorder,Zero
+idiopathic excessive menstruation,Zero
+atrial flutter,Medium
+sebaceous cyst,Zero
+gastroduodenal ulcer,Low
+prostatitis,Zero
+herniated disk,Zero
+chickenpox,Low
+cataract,Zero
+brachial neuritis,Zero
+fungal infection of the skin,Zero
+eating disorder,Medium
+ectopic pregnancy,Low
+marijuana abuse,Zero
+food allergy,Low
+neurosis,Zero
+pain after an operation,Zero
+atrophic vaginitis,Zero
+polycystic ovarian syndrome (pcos),Zero
+carpal tunnel syndrome,Zero
+tendinitis,Zero
+multiple sclerosis,Low
+orthostatic hypotension,Zero
+retinopathy due to high blood pressure,Low
+schizophrenia,Medium
+anemia,Low
+chronic rheumatic fever,Low
+otitis externa (swimmer's ear),Zero
+missed abortion,Zero
+foreign body in the throat,Low
+drug reaction,Medium
+white blood cell disease,High
+venous insufficiency,Low
+pyelonephritis,Low
+hiatal hernia,Zero
+acute pancreatitis,Medium
+seborrheic keratosis,Zero
+rosacea,Zero
+diabetic retinopathy,Low
+transient ischemic attack,Low
+abdominal hernia,Zero
+eustachian tube dysfunction (ear disorder),Zero
+conjunctivitis due to bacteria,Zero
+idiopathic absence of menstruation,Zero
+b héros disorder,Medium
+acute kidney injury,High
+hemiplegia,Medium
+delirium,High
+heart failure,High
+foreign body in the eye,Zero
+overflow incontinence,Zero
+acute bronchiolitis,Low
+itching of unknown cause,Zero
+diabetic peripheral neuropathy,Low
+allergy,Low
+rectal disorder,Zero
+presbyopia,Zero
+attention deficit hyperactivity disorder (adhd),Zero
+muscle spasm,Zero
+tooth abscess,Zero
+intracranial hemorrhage,High
+pulmonary embolism,Medium
+pelvic inflammatory disease,Low
+thoracic aortic aneurysm,High
+callus,Zero
+acute bronchospasm,Low
+injury of the ankle,Low
+injury to the face,Low
+acute respiratory distress syndrome (ards),High
+osteoarthritis,Zero
+conjunctivitis,Zero
+hypovolemia,Medium
+obsessive compulsive disorder (ocd),Zero
+scleroderma,Medium
+vulvodynia,Zero
+balanitis,Zero
+drug abuse (opioids),Medium
+fibromyalgia,Zero
+pleural effusion,Medium
+drug abuse,Medium
+erectile dysfunction,Zero
+yeast infection,Zero
+actinic keratosis,Zero
+rotator cuff injury,Zero
+infectious gastroenteritis,Low
+thrombophlebitis,Low
+astigmatism,Zero
+ingrown toe nail,Zero
+sepsis,High
+deviated nasal septum,Zero
+concussion,Low
+lumbago,Zero
+temporary or benign blood in urine,Zero
+broken tooth,Zero
+laryngitis,Zero
+pulmonary hypertension,High
+temporomandibular joint disorder,Zero
+angina,Medium
+spinal stenosis,Zero
+eye alignment disorder,Zero
+scar,Zero
+cardiomyopathy,Medium
+injury to the shoulder,Low
+tonsillar hypertrophy,Zero
+athlete's foot,Zero
+chronic constipation,Zero
+gout,Zero
+premenstrual tension syndrome,Zero
+conjunctivitis due to allergy,Zero
+orbital cellulitis,Low
+intracerebral hemorrhage,High
+soft tissue sarcoma,High
+vasculitis,Medium
+aortic valve disease,Medium
+kidney stone,Zero
+vaginal cyst,Zero
+osteochondroma,Zero
+chronic pain disorder,Zero
+hyponatremia,Medium
+lipoma,Zero
+parkinson disease,Medium
+urethral disorder,Low
+scoliosis,Zero
+interstitial lung disease,Medium
+heart attack,High
+epididymitis,Zero
+benign vaginal discharge (leukorrhea),Zero
+appendicitis,Low
+hemorrhoids,Zero
+narcolepsy,Zero
+fungal infection of the hair,Zero
+conjunctivitis due to virus,Zero
+osteoporosis,Zero
+sciatica,Zero
+vaginitis,Zero
+urinary tract infection,Low
+hemangioma,Zero
+sickle cell crisis,Medium
+indigestion,Zero
+impetigo,Zero
+mitral valve disease,Medium
+fracture of the arm,Low
+post-traumatic stress disorder (ptsd),Medium
+cardiac arrest,High
+colonic polyp,Zero
+cornea infection,Low
+myopia,Zero
+fracture of the rib,Low
+rheumatoid arthritis,Low
+pterygium,Zero
+drug poisoning due to medication,Medium
+mastoiditis,Low
+common cold,Zero
+conduct disorder,Zero
+sickle cell anemia,Medium
+viral exanthem,Zero
+thoracic outlet syndrome,Zero
+smoking or tobacco addiction,Medium
+abscess of nose,Zero
+headache after lumbar puncture,Zero
+ulcerative colitis,Low
+dermatitis due to sun exposure,Zero
+pneumonia,Medium
+myositis,Low
+abdominal aortic aneurysm,High
+deep vein thrombosis (dvt),Low
+injury to the arm,Low
+ear wax impaction,Zero
+paroxysmal ventricular tachycardia,Medium
+breast infection (mastitis),Zero
+degenerative disc disease,Zero
+nasal polyp,Zero
+thyroid nodule,Low
+sialoadenitis,Zero
+lactose intolerance,Zero
+vitreous degeneration,Zero
+croup,Low
+pulmonary eosinophilia,Low
+injury to the hand,Low
+adjustment reaction,Zero
+pyogenic skin infection,Low
+restless leg syndrome,Zero
+intestinal malabsorption,Low
+acute bronchitis,Low
+pneumothorax,Medium
+lymphedema,Zero
+sarcoidosis,Low
+stroke,High
+panic attack,Zero
+seasonal allergies (hay fever),Zero
+kidney failure,High
+peripheral arterial disease,Medium
+diverticulosis,Zero
+alcohol intoxication,Medium
+choledocholithiasis,Low
+polycystic kidney disease,Medium
+primary insomnia,Zero
+onychomycosis,Zero
+fracture of the vertebra,Low
+viral warts,Zero
+endometriosis,Zero
+abscess of the pharynx,Low
+diabetic ketoacidosis,Medium
+induced abortion,Zero
+urethritis,Zero
+hydronephrosis,Low
+cervicitis,Zero
+impulse control disorder,Zero
+otitis media,Zero
+cranial nerve palsy,Low
+paronychia,Zero
+head and neck cancer,High
+lymphoma,High
+ischemia of the bowel,High
+molluscum contagiosum,Zero
+iron deficiency anemia,Low
+lyme disease,Low
+idiopathic painful menstruation,Zero
+corneal abrasion,Zero
+tracheitis,Low
+blepharitis,Zero
+paroxysmal supraventricular tachycardia,Medium
+diaper rash,Zero
+skin polyp,Zero
+mucositis,Zero
+urethral stricture,Zero
+myasthenia gravis,Low
+hyperopia,Zero
+insect bite,Zero
+retinal detachment,Zero
+fracture of the hand,Low
+urge incontinence,Zero
+varicocele of the testicles,Zero
+graves disease,Low
+glaucoma,Low
+spondylitis,Zero
+fracture of the leg,Low
+malignant hypertension,High
+psychosexual disorder,Zero
+migraine,Zero
+dental caries,Zero
+irritable bowel syndrome,Zero
+problem during pregnancy,Low
+melanoma,Medium
+bone disorder,Low
+iridocyclitis,Zero
+gastroesophageal reflux disease (gerd),Zero
+flu,Low
+acute otitis media,Zero
+bladder obstruction,Medium
+fracture of the facial bones,Low
+chalazion,Zero
+subconjunctival hemorrhage,Zero
+osteochondrosis,Zero
+alopecia,Zero
+ear drum damage,Zero
+tietze syndrome,Zero
+heart block,Medium
+spontaneous abortion,Zero
+conductive hearing loss,Zero
+envenomation from spider or animal bite,Medium
+alcohol withdrawal,Medium
+vaginal yeast infection,Zero
+spondylolisthesis,Zero
+hypertensive heart disease,Medium
+bladder disorder,Zero
+skin disorder,Zero
+down syndrome,Medium
+stress incontinence,Zero
+alcohol abuse,Medium
+nerve impingement near the shoulder,Zero
+bell palsy,Zero
+lateral epicondylitis (tennis elbow),Zero
+hypokalemia,Medium
+drug withdrawal,Medium
+atrophic skin condition,Zero
+pulmonary fibrosis,High
+female genitalia infection,Low
+perirectal infection,Low
+pulmonary congestion,Medium
+benign kidney cyst,Zero
+social phobia,Zero
+injury to internal organ,Medium
+acne,Zero
+chlamydia,Zero
+preeclampsia,Medium
+systemic lupus erythematosis (sle),Medium
+intestinal obstruction,Medium
+ileus,Medium
+bladder cancer,High
+hepatitis due to a toxin,Medium
+inguinal hernia,Zero
+lymphadenitis,Zero
+hyperemesis gravidarum,Zero
+head injury,Medium
+threatened pregnancy,Zero
+corneal disorder,Zero
+drug abuse (cocaine),Medium
+teething syndrome,Zero
+scabies,Zero
+tonsillitis,Zero
+intestinal disease,Low
+thrombocytopenia,Medium
+vulvar disorder,Zero
+cerebral palsy,Medium
+cellulitis or abscess of mouth,Low
+peritonsillar abscess,Low
+jaw disorder,Zero
+acute glaucoma,Low
+poisoning due to sedatives,Medium
+dysthymic disorder,Medium
+subarachnoid hemorrhage,High
+cold sore,Zero
+chronic pancreatitis,Medium
+ovarian cyst,Zero
+male genitalia infection,Low
+premature ventricular contractions (pvcs),Medium
+meningitis,High
+subdural hemorrhage,High
+pain disorder affecting the neck,Zero
+hydrocele of the testicle,Zero
+sick sinus syndrome,Medium
+fracture of the pelvis,Medium
+asperger syndrome,Zero
+varicose veins,Zero
+pericarditis,Low
+aphthous ulcer,Zero
+oral mucosal lesion,Low
+chronic knee pain,Zero
+poisoning due to gas,Medium
+alcoholic liver disease,High
+fluid overload,Medium
+plantar fasciitis,Zero
+prostate cancer,High
+celiac disease,Zero
+foreign body in the gastrointestinal tract,Low
+cirrhosis,High
+alzheimer disease,High
+premature atrial contractions (pacs),Medium
+heat exhaustion,Low
+anal fissure,Zero
+tinnitus of unknown cause,Zero
+osteomyelitis,Medium
+stenosis of the tear duct,Zero
+pancreatic cancer,High
+gastroparesis,Zero
+stomach cancer,High
+genital herpes,Zero
+uterine atony,Medium
+peripheral arterial embolism,Medium
+brain cancer,High
+persistent vomiting of unknown cause,Low
+coronary atherosclerosis,Medium
+intertrigo (skin condition),Zero
+hydrocephalus,High
+tension headache,Zero
+cerebral edema,High
+polymyalgia rheumatica,Zero
+gonorrhea,Zero

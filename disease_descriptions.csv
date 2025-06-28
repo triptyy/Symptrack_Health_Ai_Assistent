@@ -1,0 +1,444 @@
+Disease,Description
+chronic glaucoma,Progressive optic nerve damage causing vision loss.
+torticollis,Neck muscle contraction causing head tilt.
+personality disorder,Persistent maladaptive behavior affecting relationships.
+chronic otitis media,Recurrent middle ear infection with fluid buildup.
+arrhythmia,Irregular heart rhythm affecting rate or pattern.
+peripheral nerve disorder,Nerve damage causing weakness, numbness, or pain.
+neuralgia,Sharp, burning pain along a nerve pathway.
+hyperkalemia,High blood potassium causing heart or muscle issues.
+ankylosing spondylitis,Inflammatory arthritis affecting spine and joints.
+macular degeneration,Retinal damage causing central vision loss.
+pilonidal cyst,Skin infection near tailbone with abscess.
+hypoglycemia,Low blood sugar causing shakiness, confusion.
+anxiety,Excessive worry with physical or mental symptoms.
+noninfectious gastroenteritis,Stomach inflammation causing nausea, diarrhea.
+gastritis,Stomach lining inflammation causing pain, nausea.
+drug abuse (methamphetamine),Addictive stimulant use causing health deterioration.
+psoriasis,Chronic skin condition with red, scaly patches.
+trichomonas infection,Parasitic vaginal infection causing discharge, itching.
+fracture of the shoulder,Broken shoulder bone causing pain, immobility.
+knee ligament or meniscus tear,Knee injury causing pain, swelling, instability.
+eczema,Itchy, inflamed skin with red patches.
+trigeminal neuralgia,Facial nerve pain, sharp and electric-like.
+postoperative infection,Infection at surgical site causing redness, pain.
+dry eye of unknown cause,Insufficient tear production causing eye discomfort.
+mononucleosis,Viral infection causing fatigue, fever, sore throat.
+strep throat,Bacterial throat infection causing pain, fever.
+peritonitis,Abdominal lining inflammation causing severe pain.
+complex regional pain syndrome,Chronic limb pain with swelling, sensitivity.
+injury to the leg,Trauma causing pain, swelling, or bruising.
+oppositional disorder,Defiant behavior in children, resisting authority.
+skin cancer,Abnormal skin cell growth, often malignant.
+panic disorder,Recurrent sudden intense fear with physical symptoms.
+acute sinusitis,Sinus inflammation causing facial pain, congestion.
+hidradenitis suppurativa,Chronic skin condition with painful lumps.
+injury to the trunk,Trauma to chest or abdomen, varying severity.
+idiopathic irregular menstrual cycle,Unpredictable menstrual periods without clear cause.
+benign prostatic hyperplasia (bph),Enlarged prostate causing urinary difficulties.
+shingles (herpes zoster),Painful rash from reactivated varicella virus.
+cholecystitis,Gallbladder inflammation causing abdominal pain.
+sensorineural hearing loss,Permanent hearing loss from inner ear damage.
+urinary tract obstruction,Blocked urine flow causing pain, infection.
+developmental disability,Impaired cognitive or physical development from birth.
+esophagitis,Esophagus inflammation causing pain, swallowing difficulty.
+uterine fibroids,Benign uterine tumors causing heavy periods.
+seborrheic dermatitis,Scaly, itchy skin on scalp or face.
+ischemic heart disease,Reduced heart blood flow causing chest pain.
+tooth disorder,General dental issues like cavities, misalignment.
+meniere disease,Inner ear disorder causing vertigo, hearing loss.
+acute stress reaction,Intense stress response to traumatic event.
+spondylosis,Spinal degeneration causing stiffness, pain.
+joint effusion,Fluid buildup in joint causing swelling.
+depression,Persistent sadness, loss of interest in activities.
+gallstone,Hardened bile deposits causing abdominal pain.
+ganglion cyst,Benign wrist or hand lump, often painless.
+stye,Red, painful eyelid bump from infection.
+postpartum depression,Depression following childbirth with mood changes.
+herpangina,Viral throat infection with painful sores.
+arthritis of the hip,Hip joint inflammation causing pain, stiffness.
+contact dermatitis,Skin rash from allergen or irritant exposure.
+benign paroxysmal positional vertigo (bppv),Brief vertigo triggered by head position changes.
+obstructive sleep apnea (osa),Airway blockage during sleep causing snoring.
+mononeuritis,Single nerve inflammation causing pain, weakness.
+sinus bradycardia,Slow heart rate, often benign.
+autism,Social, communication challenges with repetitive behaviors.
+skin pigmentation disorder,Abnormal skin color changes, often cosmetic.
+psychotic disorder,Delusions, hallucinations disrupting reality perception.
+labyrinthitis,Inner ear inflammation causing vertigo, hearing loss.
+pelvic organ prolapse,Organs descending into vaginal canal.
+crohn disease,Chronic bowel inflammation causing diarrhea, pain.
+bursitis,Inflamed joint bursa causing pain, swelling.
+diverticulitis,Inflamed colon pouches causing abdominal pain.
+chronic obstructive pulmonary disease (copd),Lung disease causing breathing difficulty, coughing.
+gum disease,Gingival inflammation, bleeding, or recession.
+liver disease,Impaired liver function from various causes.
+chronic sinusitis,Persistent sinus inflammation causing congestion, pain.
+dementia,Progressive cognitive decline affecting memory, behavior.
+substance-related mental disorder,Mental issues from drug or alcohol use.
+cystitis,Bladder inflammation causing painful urination.
+essential tremor,Involuntary shaking, often in hands.
+oral thrush (yeast infection),Fungal mouth infection with white patches.
+asthma,Chronic airway inflammation causing wheezing, breathlessness.
+sprain or strain,Ligament or muscle injury causing pain.
+chronic back pain,Persistent spinal discomfort from various causes.
+gastrointestinal hemorrhage,Bleeding in digestive tract, often serious.
+nose disorder,General nasal issues like congestion, deformity.
+idiopathic excessive menstruation,Heavy menstrual bleeding without clear cause.
+atrial flutter,Rapid, organized heart rhythm abnormality.
+sebaceous cyst,Benign skin lump filled with sebum.
+gastroduodenal ulcer,Stomach or duodenum sore causing pain.
+prostatitis,Prostate inflammation causing urinary, pelvic pain.
+herniated disk,Spinal disk protrusion causing nerve pain.
+chickenpox,Viral infection with itchy rash, fever.
+cataract,Cloudy eye lens causing vision impairment.
+brachial neuritis,Shoulder nerve inflammation causing sudden pain.
+fungal infection of the skin,Itchy, scaly skin from fungal growth.
+eating disorder,Abnormal eating behaviors, like anorexia, bulimia.
+ectopic pregnancy,Pregnancy outside uterus, often in fallopian tube.
+marijuana abuse,Chronic cannabis use causing health issues.
+food allergy,Immune reaction to specific foods, sometimes severe.
+neurosis,Emotional distress without reality detachment.
+pain after an operation,Post-surgical discomfort, varying causes.
+atrophic vaginitis,Vaginal tissue thinning causing dryness, discomfort.
+polycystic ovarian syndrome (pcos),Hormonal disorder causing irregular periods, cysts.
+carpal tunnel syndrome,Wrist nerve compression causing hand numbness.
+tendinitis,Tendon inflammation causing pain, stiffness.
+multiple sclerosis,Nerve damage causing weakness, coordination issues.
+orthostatic hypotension,Low blood pressure upon standing, dizziness.
+retinopathy due to high blood pressure,Retinal damage from elevated blood pressure.
+schizophrenia,Chronic mental disorder with hallucinations, delusions.
+anemia,Low red blood cell count causing fatigue.
+chronic rheumatic fever,Heart, joint damage from untreated strep.
+otitis externa (swimmer's ear),Outer ear infection causing pain, swelling.
+missed abortion,Fetal death without expulsion, early pregnancy.
+foreign body in the throat,Obstruction causing choking, swallowing difficulty.
+drug reaction,Adverse response to medication, varying severity.
+white blood cell disease,Abnormal white cell function, often serious.
+venous insufficiency,Impaired leg vein flow causing swelling.
+pyelonephritis,Kidney infection causing fever, flank pain.
+hiatal hernia,Stomach protrusion through diaphragm, reflux.
+acute pancreatitis,Pancreas inflammation causing severe abdominal pain.
+seborrheic keratosis,Benign, warty skin growths, often pigmented.
+rosacea,Chronic facial redness, bumps, flushing.
+diabetic retinopathy,Retinal damage from diabetes, vision loss.
+transient ischemic attack,Brief stroke-like symptoms, temporary blood flow loss.
+abdominal hernia,Organ protrusion through abdominal wall.
+eustachian tube dysfunction (ear disorder),Blocked ear tube causing pressure, hearing issues.
+conjunctivitis due to bacteria,Eye infection causing redness, discharge.
+idiopathic absence of menstruation,Missing periods without clear cause.
+bipolar disorder,Mood swings between mania, depression.
+acute kidney injury,Sudden kidney function loss, often reversible.
+hemiplegia,One-sided body paralysis, often from stroke.
+delirium,Sudden confusion, altered mental state.
+heart failure,Heart’s inability to pump blood effectively.
+foreign body in the eye,Eye irritation from external object.
+overflow incontinence,Bladder overflow causing involuntary urine leakage.
+acute bronchiolitis,Lower respiratory infection in young children.
+itching of unknown cause,Persistent skin itch without clear cause.
+diabetic peripheral neuropathy,Nerve damage from diabetes, numbness, pain.
+allergy,Immune overreaction to environmental triggers.
+rectal disorder,General rectal issues like pain, bleeding.
+presbyopia,Age-related difficulty focusing on near objects.
+attention deficit hyperactivity disorder (adhd),Inattention, impulsivity, hyperactivity in children, adults.
+muscle spasm,Painful, involuntary muscle contraction.
+tooth abscess,Pus-filled dental infection causing pain.
+intracranial hemorrhage,Bleeding within skull, often critical.
+pulmonary embolism,Blood clot in lung artery, sudden onset.
+pelvic inflammatory disease,Female reproductive organ infection, pain.
+thoracic aortic aneurysm,Enlarged thoracic aorta, risk of rupture.
+callus,Thickened skin from pressure or friction.
+acute bronchospasm,Sudden airway narrowing causing breathing difficulty.
+injury of the ankle,Trauma causing swelling, pain, instability.
+injury to the face,Trauma to facial tissues, varying severity.
+acute respiratory distress syndrome (ards),Severe lung failure, low oxygen levels.
+osteoarthritis,Joint cartilage breakdown causing pain, stiffness.
+conjunctivitis,Inflammation of eye’s outer layer, redness.
+hypovolemia,Low blood volume causing dizziness, shock.
+obsessive compulsive disorder (ocd),Intrusive thoughts, repetitive behaviors.
+scleroderma,Hardened skin, connective tissue disease.
+vulvodynia,Chronic vulvar pain without clear cause.
+balanitis,Penile head inflammation, often from infection.
+drug abuse (opioids),Addictive opioid use causing health decline.
+fibromyalgia,Chronic widespread pain, fatigue, tenderness.
+pleural effusion,Fluid buildup around lungs, breathing issues.
+drug abuse,General substance misuse, health deterioration.
+erectile dysfunction,Inability to maintain penile erection.
+yeast infection,Fungal overgrowth, often vaginal or oral.
+actinic keratosis,Precancerous scaly skin from sun exposure.
+rotator cuff injury,Shoulder tendon tear causing pain, weakness.
+infectious gastroenteritis,Intestinal infection causing diarrhea, vomiting.
+thrombophlebitis,Vein inflammation with blood clot.
+astigmatism,Corneal irregularity causing blurred vision.
+ingrown toe nail,Toenail growing into skin, pain, infection.
+sepsis,Systemic infection causing organ dysfunction.
+deviated nasal septum,Crooked nasal cartilage, breathing issues.
+concussion,Mild brain injury causing headache, confusion.
+lumbago,Lower back pain, often nonspecific.
+temporary or benign blood in urine,Blood in urine, often non-serious.
+broken tooth,Fractured tooth causing pain, sensitivity.
+laryngitis,Voice box inflammation, hoarseness, pain.
+pulmonary hypertension,High lung artery pressure, breathing issues.
+temporomandibular joint disorder,Jaw joint dysfunction causing pain, clicking.
+angina,Chest pain from reduced heart blood flow.
+spinal stenosis,Narrowed spinal canal causing nerve pain.
+eye alignment disorder,Misaligned eyes causing vision issues.
+scar,Healed tissue from injury, often cosmetic.
+cardiomyopathy,Heart muscle disease impairing pumping.
+injury to the shoulder,Trauma causing pain, limited motion.
+tonsillar hypertrophy,Enlarged tonsils causing swallowing, breathing issues.
+athlete's foot,Fungal foot infection, itching, scaling.
+chronic constipation,Persistent difficulty passing stools.
+gout,Joint inflammation from uric acid crystals.
+premenstrual tension syndrome,Mood, physical symptoms before menstruation.
+conjunctivitis due to allergy,Allergic eye inflammation, redness, itching.
+orbital cellulitis,Eye socket infection, swelling, pain.
+intracerebral hemorrhage,Bleeding within brain tissue, critical.
+soft tissue sarcoma,Malignant tumor in connective tissues.
+vasculitis,Blood vessel inflammation, organ damage.
+aortic valve disease,Impaired aortic valve function, heart strain.
+kidney stone,Painful urinary tract crystal deposits.
+vaginal cyst,Benign vaginal wall lump, often asymptomatic.
+osteochondroma,Benign bone growth, sometimes painful.
+chronic pain disorder,Persistent pain without clear cause.
+hyponatremia,Low blood sodium causing confusion, seizures.
+lipoma,Benign fatty tissue lump, usually harmless.
+parkinson disease,Neurodegenerative disorder, tremors, stiffness.
+urethral disorder,General urethral issues, pain, urination problems.
+scoliosis,Abnormal spinal curvature, often asymptomatic.
+interstitial lung disease,Lung scarring causing breathing difficulty.
+heart attack,Blocked heart blood flow, chest pain.
+epididymitis,Epididymal inflammation, testicular pain, swelling.
+benign vaginal discharge (leukorrhea),Non-infectious vaginal discharge, often normal.
+appendicitis,Appendix inflammation, severe abdominal pain.
+hemorrhoids,Swollen anal veins, pain, bleeding.
+narcolepsy,Excessive daytime sleepiness, sudden sleep attacks.
+fungal infection of the hair,Scalp fungal infection, hair loss.
+conjunctivitis due to virus,Viral eye infection, redness, tearing.
+osteoporosis,Bone density loss, fracture risk.
+sciatica,Nerve pain from lower back to leg.
+vaginitis,Vaginal inflammation, discharge, itching.
+urinary tract infection,Bladder or urethra infection, painful urination.
+hemangioma,Benign blood vessel tumor, often skin.
+sickle cell crisis,Painful blood vessel blockage, sickle-shaped cells.
+indigestion,Upper abdominal discomfort, bloating, nausea.
+impetigo,Bacterial skin infection, red sores, crusting.
+mitral valve disease,Impaired mitral valve, heart dysfunction.
+fracture of the arm,Broken arm bone, pain, immobility.
+post-traumatic stress disorder (ptsd),Trauma-related anxiety, flashbacks, nightmares.
+cardiac arrest,Sudden heart stoppage, life-threatening.
+colonic polyp,Benign colon growth, potential cancer risk.
+cornea infection,Corneal inflammation, pain, vision issues.
+myopia,Nearsightedness, difficulty seeing distant objects.
+fracture of the rib,Broken rib, chest pain, breathing issues.
+rheumatoid arthritis,Autoimmune joint inflammation, pain, deformity.
+pterygium,Conjunctival growth over cornea, irritation.
+drug poisoning due to medication,Adverse medication overdose, varying symptoms.
+mastoiditis,Mastoid bone infection, ear pain, swelling.
+common cold,Viral upper respiratory infection, runny nose.
+conduct disorder,Persistent antisocial behavior in youth.
+sickle cell anemia,Genetic blood disorder, painful crises.
+viral exanthem,Viral rash, often in children.
+thoracic outlet syndrome,Nerve, vessel compression in shoulder area.
+smoking or tobacco addiction,Chronic nicotine use, health deterioration.
+abscess of nose,Nasal tissue infection, pus, pain.
+headache after lumbar puncture,Post-procedure headache, often positional.
+ulcerative colitis,Chronic colon inflammation, bloody diarrhea.
+dermatitis due to sun exposure,Skin inflammation from UV exposure.
+pneumonia,Lung infection, cough, fever, breathing issues.
+myositis,Muscle inflammation, weakness, pain.
+abdominal aortic aneurysm,Enlarged abdominal aorta, rupture risk.
+deep vein thrombosis (dvt),Leg vein blood clot, swelling.
+injury to the arm,Trauma, pain, limited motion.
+ear wax impaction,Blocked ear canal, hearing loss, discomfort.
+paroxysmal ventricular tachycardia,Rapid heart rhythm, potentially dangerous.
+breast infection (mastitis),Breast tissue infection, pain, swelling.
+degenerative disc disease,Spinal disc breakdown, back pain.
+nasal polyp,Benign nasal growth, congestion, smell loss.
+thyroid nodule,Thyroid gland lump, often benign.
+sialoadenitis,Salivary gland inflammation, swelling, pain.
+lactose intolerance,Inability to digest lactose, bloating, diarrhea.
+vitreous degeneration,Floaters, vision changes from eye gel breakdown.
+croup,Viral airway infection, barking cough, children.
+pulmonary eosinophilia,Lung inflammation with eosinophil buildup.
+injury to the hand,Trauma, pain, reduced function.
+adjustment reaction,Emotional distress from life changes.
+pyogenic skin infection,Bacterial skin infection, pus, redness.
+restless leg syndrome,Urge to move legs, discomfort, sleep issues.
+intestinal malabsorption,Nutrient absorption failure, diarrhea, weight loss.
+acute bronchitis,Bronchial inflammation, cough, mucus production.
+pneumothorax,Collapsed lung, sudden chest pain, breathlessness.
+lymphedema,Chronic limb swelling from lymphatic issues.
+sarcoidosis,Inflammatory granulomas in organs, often lungs.
+stroke,Brain blood flow disruption, sudden weakness.
+panic attack,Sudden intense fear, heart palpitations.
+seasonal allergies (hay fever),Nasal, eye irritation from pollen, allergens.
+kidney failure,Loss of kidney function, toxin buildup.
+peripheral arterial disease,Blocked limb arteries, leg pain, ulcers.
+diverticulosis,Colon pouches, often asymptomatic.
+alcohol intoxication,Acute alcohol overdose, impaired coordination.
+choledocholithiasis,Bile duct stones, jaundice, pain.
+polycystic kidney disease,Kidney cysts, impaired function, hypertension.
+primary insomnia,Chronic difficulty falling or staying asleep.
+onychomycosis,Fungal nail infection, thickened nails.
+fracture of the vertebra,Spinal bone break, pain, immobility.
+viral warts,Skin growths from human papillomavirus.
+endometriosis,Uterine tissue outside uterus, pelvic pain.
+abscess of the pharynx,Throat infection, pus, swallowing difficulty.
+diabetic ketoacidosis,High blood sugar, acidosis, dehydration.
+induced abortion,Medical termination of pregnancy.
+urethritis,Urethral inflammation, painful urination.
+hydronephrosis,Kidney swelling from urine backup.
+cervicitis,Cervical inflammation, discharge, pain.
+impulse control disorder,Inability to resist harmful impulses.
+otitis media,Middle ear infection, pain, fever.
+cranial nerve palsy,Nerve dysfunction, facial weakness, vision issues.
+paronychia,Nail bed infection, redness, swelling.
+head and neck cancer,Malignant tumors in throat, mouth, larynx.
+lymphoma,Cancer of lymphatic system, swollen nodes.
+ischemia of the bowel,Reduced bowel blood flow, severe pain.
+molluscum contagiosum,Viral skin infection, small bumps.
+iron deficiency anemia,Low iron, fatigue, pallor.
+lyme disease,Bacterial infection from tick bite, rash.
+idiopathic painful menstruation,Severe menstrual cramps without clear cause.
+corneal abrasion,Scratched cornea, pain, tearing.
+tracheitis,Tracheal inflammation, cough, breathing issues.
+blepharitis,Eyelid inflammation, redness, crusting.
+paroxysmal supraventricular tachycardia,Rapid heart rate, palpitations, dizziness.
+diaper rash,Infant skin irritation, redness, discomfort.
+skin polyp,Benign skin growth, often harmless.
+mucositis,Mouth, throat lining inflammation, soreness.
+urethral stricture,Narrowed urethra, urination difficulty.
+myasthenia gravis,Autoimmune muscle weakness, fatigue.
+hyperopia,Farsightedness, difficulty seeing close objects.
+insect bite,Skin reaction to insect venom, itching.
+retinal detachment,Retina separation, sudden vision loss.
+fracture of the hand,Broken hand bone, pain, swelling.
+urge incontinence,Sudden, uncontrollable bladder contractions, leakage.
+varicocele of the testicles,Enlarged testicular veins, often asymptomatic.
+graves disease,Overactive thyroid, weight loss, palpitations.
+glaucoma,Optic nerve damage, vision loss.
+spondylitis,Spinal inflammation, pain, stiffness.
+fracture of the leg,Broken leg bone, pain, immobility.
+malignant hypertension,Severely high blood pressure, organ damage.
+psychosexual disorder,Sexual function issues, psychological origin.
+migraine,Recurrent headaches, nausea, light sensitivity.
+dental caries,Tooth decay, cavities, pain.
+irritable bowel syndrome,Chronic abdominal pain, altered bowel habits.
+problem during pregnancy,General pregnancy complications, varying severity.
+melanoma,Malignant skin cancer, irregular moles.
+bone disorder,General skeletal issues, pain, deformity.
+iridocyclitis,Iris inflammation, eye pain, redness.
+gastroesophageal reflux disease (gerd),Acid reflux, heartburn, regurgitation.
+flu,Viral respiratory infection, fever, aches.
+acute otitis media,Acute middle ear infection, pain, fever.
+bladder obstruction,Blocked bladder outlet, urination difficulty.
+fracture of the facial bones,Broken facial bone, pain, swelling.
+chalazion,Blocked eyelid gland, painless lump.
+subconjunctival hemorrhage,Blood under conjunctiva, red eye.
+osteochondrosis,Joint cartilage disorder, pain, stiffness.
+alopecia,Hair loss, often autoimmune or stress-related.
+ear drum damage,Perforated eardrum, hearing loss, pain.
+tietze syndrome,Costal cartilage inflammation, chest pain.
+heart block,Delayed heart electrical signals, dizziness.
+spontaneous abortion,Early pregnancy loss, bleeding, cramping.
+conductive hearing loss,Hearing loss from ear canal obstruction.
+envenomation from spider or animal bite,Venom causing pain, swelling, systemic effects.
+alcohol withdrawal,Symptoms from stopping alcohol, tremors, seizures.
+vaginal yeast infection,Fungal vaginal infection, itching, discharge.
+spondylolisthesis,Vertebral slippage, back pain, stiffness.
+hypertensive heart disease,Heart damage from chronic high blood pressure.
+bladder disorder,General bladder issues, pain, urination problems.
+skin disorder,General skin issues, rash, irritation.
+down syndrome,Genetic disorder, intellectual disability, physical traits.
+stress incontinence,Urine leakage during physical stress.
+alcohol abuse,Chronic excessive alcohol use, health decline.
+nerve impingement near the shoulder,Pinched shoulder nerve, pain, numbness.
+bell palsy,Facial nerve paralysis, one-sided weakness.
+lateral epicondylitis (tennis elbow),Elbow tendon inflammation, pain, weakness.
+hypokalemia,Low blood potassium, muscle weakness, cramps.
+drug withdrawal,Symptoms from stopping addictive substances.
+atrophic skin condition,Thinned, fragile skin, often age-related.
+pulmonary fibrosis,Lung scarring, progressive breathing difficulty.
+female genitalia infection,Infection causing vaginal pain, discharge.
+perirectal infection,Anal or rectal tissue infection, pain.
+pulmonary congestion,Lung fluid buildup, breathing difficulty.
+benign kidney cyst,Non-cancerous kidney fluid sac, often asymptomatic.
+social phobia,Intense fear of social situations.
+injury to internal organ,Trauma to organs, varying severity.
+acne,Clogged pores, pimples, inflammation.
+chlamydia,Bacterial STI, often asymptomatic, discharge.
+preeclampsia,High blood pressure during pregnancy, complications.
+systemic lupus erythematosis (sle),Autoimmune disease, joint pain, rash.
+intestinal obstruction,Bowel blockage, pain, vomiting.
+ileus,Intestinal motility failure, bloating, pain.
+bladder cancer,Malignant bladder tumor, blood in urine.
+hepatitis due to a toxin,Liver inflammation from toxic exposure.
+inguinal hernia,Groin bulge from abdominal protrusion.
+lymphadenitis,Lymph node inflammation, swelling, pain.
+hyperemesis gravidarum,Severe pregnancy vomiting, dehydration.
+head injury,Trauma to skull or brain, varying severity.
+threatened pregnancy,Potential miscarriage risk, bleeding, cramping.
+corneal disorder,General cornea issues, pain, vision problems.
+drug abuse (cocaine),Addictive stimulant use, health deterioration.
+teething syndrome,Infant gum pain during tooth eruption.
+scabies,Mite skin infestation, intense itching.
+tonsillitis,Tonsil inflammation, sore throat, fever.
+intestinal disease,General bowel disorders, pain, diarrhea.
+thrombocytopenia,Low platelet count, bleeding risk.
+vulvar disorder,General vulvar issues, pain, itching.
+cerebral palsy,Neurological disorder, impaired movement, coordination.
+cellulitis or abscess of mouth,Oral bacterial infection, swelling, pain.
+peritonsillar abscess,Throat pus pocket, severe pain, swallowing issues.
+jaw disorder,General jaw issues, pain, dysfunction.
+acute glaucoma,Sudden high eye pressure, vision loss.
+poisoning due to sedatives,Overdose causing respiratory, neurological issues.
+dysthymic disorder,Chronic mild depression, persistent sadness.
+subarachnoid hemorrhage,Bleeding around brain, severe headache.
+cold sore,Herpes simplex lip or mouth sores.
+chronic pancreatitis,Persistent pancreas inflammation, pain, malabsorption.
+ovarian cyst,Fluid-filled ovarian sac, often benign.
+male genitalia infection,Penile or testicular infection, pain, swelling.
+premature ventricular contractions (pvcs),Irregular heartbeats, often benign.
+meningitis,Brain, spinal cord membrane inflammation.
+subdural hemorrhage,Blood between brain and skull, pressure.
+pain disorder affecting the neck,Chronic neck pain, varying causes.
+hydrocele of the testicle,Fluid around testicle, scrotal swelling.
+sick sinus syndrome,Heart rhythm disorder, slow or irregular.
+fracture of the pelvis,Broken pelvic bone, pain, immobility.
+asperger syndrome,Social, communication challenges, milder autism spectrum.
+varicose veins,Swollen, twisted leg veins, aching.
+pericarditis,Heart sac inflammation, chest pain.
+aphthous ulcer,Painful mouth sores, often recurrent.
+oral mucosal lesion,General mouth lining abnormalities, varying causes.
+chronic knee pain,Persistent knee discomfort, often degenerative.
+poisoning due to gas,Toxic gas inhalation, respiratory issues.
+alcoholic liver disease,Liver damage from chronic alcohol use.
+fluid overload,Excess body fluid, swelling, breathing issues.
+plantar fasciitis,Heel pain from foot tissue inflammation.
+prostate cancer,Malignant prostate tumor, urinary issues.
+celiac disease,Gluten intolerance, intestinal damage, diarrhea.
+foreign body in the gastrointestinal tract,Swallowed object causing obstruction, pain.
+cirrhosis,Liver scarring, impaired function, jaundice.
+alzheimer disease,Progressive dementia, memory loss, confusion.
+premature atrial contractions (pacs),Irregular atrial heartbeats, often benign.
+heat exhaustion,Overheating causing weakness, nausea, dehydration.
+anal fissure,Painful tear in anal lining, bleeding.
+tinnitus of unknown cause,Persistent ear ringing without clear cause.
+osteomyelitis,Bone infection, pain, swelling, fever.
+stenosis of the tear duct,Blocked tear drainage, watery eyes.
+pancreatic cancer,Malignant pancreas tumor, abdominal pain.
+gastroparesis,Delayed stomach emptying, nausea, bloating.
+stomach cancer,Malignant stomach tumor, pain, weight loss.
+genital herpes,Herpes virus causing genital sores.
+uterine atony,Weak uterine contractions post-delivery, bleeding.
+peripheral arterial embolism,Artery blockage, limb pain, tissue damage.
+brain cancer,Malignant brain tumor, headaches, seizures.
+persistent vomiting of unknown cause,Unexplained chronic vomiting, varying causes.
+coronary atherosclerosis,Artery plaque buildup, heart disease risk.
+intertrigo (skin condition),Skin fold inflammation, redness, irritation.
+hydrocephalus,Brain fluid buildup, pressure, headaches.
+tension headache,Stress-related head pain, tightness.
+cerebral edema,Brain swelling, pressure, neurological issues.
+polymyalgia rheumatica,Muscle pain, stiffness, elderly onset.
+gonorrhea,Bacterial STI, discharge, painful urination.
