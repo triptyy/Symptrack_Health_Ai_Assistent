@@ -19,9 +19,7 @@ Python dependencies listed in requirements.txt (FastAPI, scikit-learn, joblib, p
 Node.js dependencies listed in package.json for doctor recommendation server.
 
 ## Project Architecture
-```mermaid
-graph TD
-
+```
 Frontend (React.js + Rasa integration)
     |
     ↓
@@ -29,7 +27,6 @@ Backend (FastAPI + Disease Prediction Model)
     |
     ↓
 Doctor Recommendation Service (JS server)
-
 
 ```
 ## Tech Stack
@@ -45,13 +42,9 @@ Doctor Recommendation Service (JS server)
 🔬 FastAPI Service
 File: main.py
 Hosts /predict endpoint to receive symptoms and return predicted disease, description, fatality rate, and type.
-
 Integrates with: Gaussian Naive byes model for disease prediction model (model.pkl)
-
 Label encoder for disease labels (label_encoder.pkl)
-
 Disease description CSVs
-
 Handles requests from frontend and Rasa chatbot.
 
 ## Doctor Recommendation
@@ -64,16 +57,12 @@ Can be extended with real data or third-party APIs.
 ### Key Files
 domain.yml
 Defines intents, entities (symptoms), slots, responses, and custom actions.
-
 nlu.yml
 Contains training examples for intents like describing symptoms, asking for help, etc.
-
 rules.yml
 Defines rule-based flows (e.g., fallback, restart, confirm symptoms).
-
 stories.yml
 Conversation paths that guide how the bot interacts and collects symptoms.
-
 actions.py
 Custom action to extract symptoms (action_extract_symptoms)
 Custom action to call FastAPI predict endpoint and return disease diagnosis (action_predict_disease)
@@ -81,12 +70,10 @@ Custom action to call FastAPI predict endpoint and return disease diagnosis (act
 ## FrontendFolders
 public/
 Static assets, images, voice icons, etc.
-
 src/
 Contains main React code, pages, components, hooks, and Rasa chatbot integration.
 
 ## FLOW
-Flow
 - User logs in via Firebase Auth.
 - User describes symptoms in chatbot or form.
 - Frontend calls FastAPI /predict or interacts with Rasa chatbot directly.
